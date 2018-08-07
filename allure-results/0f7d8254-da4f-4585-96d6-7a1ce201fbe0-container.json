@@ -1,0 +1,1 @@
+{"uuid":"0f7d8254-da4f-4585-96d6-7a1ce201fbe0","name":"products.driverapp.tests.LogInTests.beforeLogIn","description":"","start":1529418114790,"stop":1529418117772,"children":["db597e22-ec8e-4abd-b643-74c55d0225f3"],"befores":[{"name":"beforeLogIn","status":"passed","stage":"finished","description":"","start":1529418114790,"stop":1529418117772}]}

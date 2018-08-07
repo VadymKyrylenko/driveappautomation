@@ -1,0 +1,1 @@
+{"uuid":"60789432-d82e-4e58-8191-927e96ef2c20","name":"products.driverapp.tests.ParentTest.launchApp","description":"","start":1529417842772,"stop":1529417846826,"children":["16bfc9bf-51bf-455b-91c2-62d0dfc06f2e"],"befores":[{"name":"launchApp","status":"passed","stage":"finished","description":"","start":1529417842772,"stop":1529417846826}]}

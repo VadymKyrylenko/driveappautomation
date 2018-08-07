@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Penske Driver App suite" parallel="false">
+    <test name="Driver app tests" preserve-order="true">
+        <classes>
+            <class name="products.driverapp.runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>

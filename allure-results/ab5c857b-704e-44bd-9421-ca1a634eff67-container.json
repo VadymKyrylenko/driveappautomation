@@ -1,0 +1,1 @@
+{"uuid":"ab5c857b-704e-44bd-9421-ca1a634eff67","name":"products.driverapp.tests.ParentTest.closeApp","description":"","start":1529489549922,"stop":1529489550685,"children":["2753b08f-454b-41ff-91c0-e9b25bc061e9"],"afters":[{"name":"closeApp","status":"passed","stage":"finished","description":"","start":1529489549922,"stop":1529489550685}]}
